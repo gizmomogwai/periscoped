@@ -1,0 +1,6 @@
+name "periscoped"
+description "A terminal only implementation to interact with OpenSynergy's periscope uart multiplexer."
+authors "Christian Koestlin"
+copyright "Copyright (c) 2019, Christian Koestlin"
+license "MIT"
+dependency "colored" version="~>0.0.20"

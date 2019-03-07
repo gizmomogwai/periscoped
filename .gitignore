@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/periscoped
+periscoped.so
+periscoped.dylib
+periscoped.dll
+periscoped.a
+periscoped.lib
+periscoped-test-*
+*.exe
+*.o
+*.obj
+*.lst
